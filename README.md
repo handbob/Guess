@@ -1,2 +1,2 @@
 # Guess
-Guessing game in C#
+.NET Core C# console game.
